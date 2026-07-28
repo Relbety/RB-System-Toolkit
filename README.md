@@ -9,6 +9,8 @@ O projeto ainda está em evolução e novas funcionalidades serão adicionadas n
  
 -----------------------------------------------------------------------------------
  
-🚧 Project in development. RB System Toolkit is a maintenance tool for Windows developed in Batch. 
+🚧 Project in development. 
+
+RB System Toolkit is a maintenance tool for Windows developed in Batch. 
 
 The project is still evolving and new features will be added in the next versions.
