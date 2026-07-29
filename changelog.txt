@@ -1,0 +1,13 @@
+RB System Toolkit v2.2
+
+Primeira versão pública.
+
+• Informações do Sistema
+• Limpeza Pesada
+• Limpeza Cache DNS
+• Limpeza Windows Update
+• Atualização de Apps via Winget
+• Reparo do Windows
+• WinUtil Integrado
+
+Obrigado por utilizar o RB System Toolkit!
